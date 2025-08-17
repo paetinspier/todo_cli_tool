@@ -1,1 +1,2 @@
 ## TODO CLI TOOL WRITTEN IN GO
+update
